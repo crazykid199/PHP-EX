@@ -1,0 +1,6 @@
+Options +Indexes
+AuthName "Demo PHP"
+AuthType Basic
+AuthUserFile /home/kloxo/httpd/default/CEH/.htpasswd
+AuthGroupFile /dev/null
+require valid-user
